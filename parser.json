@@ -1,8 +1,8 @@
 {
-  "lang": "ecma",
   "url": null,
   "semver": null,
   "parser_version": null,
-  "location": null,
-  "queries_only": true
+  "lang": "ecma",
+  "queries_only": true,
+  "location": null
 }
