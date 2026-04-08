@@ -1,7 +1,10 @@
 {
   "queries_only": true,
   "semver": null,
+  "parser_version": null,
   "url": null,
-  "lang": "ecma",
-  "parser_version": null
+  "inject_deps": [
+    "html"
+  ],
+  "lang": "ecma"
 }
